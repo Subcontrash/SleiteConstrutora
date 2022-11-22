@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+body {
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #888888 16%, #bbbbbb 85%);
+}
+
+.item1{
+    display: flex;
+    flex-direction: row;
+    align-items:flex-end;
+    justify-content:center;
+
+}
